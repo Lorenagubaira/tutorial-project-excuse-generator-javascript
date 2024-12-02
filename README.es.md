@@ -9,6 +9,8 @@ Este proyecto es ideal para evitar alguien molestoso. No toma más de 20 líneas
 Queríamos un proyecto que usara muy poco Javascript pero que tuviese una aplicación muy divertida, el generador de excusas toma
 20 líneas de código, es super simple de entender y es el primer proyecto perfecto para cualquier desarrollador principiante.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  Cómo iniciar este proyecto
 
 No abras este repositorio, utilizaremos otro template para empezar a programar.
@@ -24,6 +26,8 @@ https://github.com/4GeeksAcademy/vanillajs-hello
 **👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/lesson/how-to-start-a-project).
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <tu nuevo url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## Instrucciones
 
